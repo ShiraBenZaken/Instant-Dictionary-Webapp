@@ -1,0 +1,7 @@
+/venv
+examples/
+design
+.idea
+.gitattributes
+
+/webapp/__pycache__/

@@ -2,7 +2,7 @@ import justpy as jp
 
 
 class Home:
-    path = "/home"
+    path = "/"
 
     def serve(self):
         wp = jp.QuasarPage(tailwind=True)
